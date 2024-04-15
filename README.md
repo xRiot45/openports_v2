@@ -1,6 +1,6 @@
 # OPENPORTS
 
-OPENPORTS is a tool created using the python programming language. This tool is designed to find and display open ports in a network. The main purpose of this tool is to assist users in carrying out port scanning on the network for security analysis needs.
+OPENPORTS_v2 is the second version of the previous tool which was created using the Python programming language. This tool is designed to find and display open ports in a network.
 
 ## REQUIREMENTS
 - Linux Distribution
@@ -8,7 +8,7 @@ OPENPORTS is a tool created using the python programming language. This tool is 
 
 ## USAGE
 ```bash
-git clone https://github.com/riotDev17/openports.git
+git clone https://github.com/riotDev17/openports_v2.git
 cd openports
 
 # Usage
