@@ -12,5 +12,7 @@ git clone https://github.com/riotDev17/openports.git
 cd openports
 
 # Usage
-sudo python3 openports.py <IP ADDRESS>
+sudo python3 openports_v2.py
+Input IP Address Target : <IP ADDRESS>
+Input Range Port (Format: start-end) : <START - END>
 ```
